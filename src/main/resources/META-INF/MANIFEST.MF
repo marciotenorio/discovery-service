@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Main-Class: br.imd.distprog.discoveryservice.DiscoveryServiceApplication
+Class-Path: jaxb-runtime-2.3.7.jar joda-time-2.3.jar jettison-1.4.0.jar 
+ jackson-core-2.13.4.jar evictor-1.0.0.jar spring-cloud-netflix-eureka-s
+ erver-3.1.4.jar commons-jxpath-1.3.jar netflix-eventbus-0.3.0.jar sprin
+ g-web-5.3.24.jar LatencyUtils-2.0.3.jar tomcat-embed-core-9.0.69.jar xm
+ lpull-1.1.3.1.jar servo-core-0.12.21.jar spring-boot-starter-json-2.7.6
+ .jar jersey-servlet-1.19.4.jar jakarta.activation-api-1.2.2.jar jackson
+ -datatype-jsr310-2.13.4.jar snakeyaml-1.30.jar spring-cloud-starter-net
+ flix-eureka-server-3.1.4.jar spring-boot-2.7.6.jar spring-boot-starter-
+ tomcat-2.7.6.jar spring-boot-starter-logging-2.7.6.jar spring-boot-star
+ ter-actuator-2.7.6.jar spring-cloud-commons-3.1.5.jar eureka-client-1.1
+ 0.17.jar spring-cloud-loadbalancer-3.1.5.jar gson-2.9.1.jar jackson-dat
+ atype-jdk8-2.13.4.jar spring-expression-5.3.24.jar antlr-runtime-3.4.ja
+ r commons-codec-1.15.jar tomcat-embed-websocket-9.0.69.jar spring-boot-
+ actuator-2.7.6.jar spring-cloud-starter-3.1.5.jar freemarker-2.3.31.jar
+  spring-security-rsa-1.0.11.RELEASE.jar log4j-api-2.17.2.jar commons-ma
+ th-2.2.jar jackson-dataformat-xml-2.13.4.jar spring-boot-devtools-2.7.6
+ .jar netflix-infix-0.3.0.jar stringtemplate-3.2.1.jar spring-cloud-conf
+ ig-client-3.1.5.jar stax2-api-4.2.1.jar eureka-core-1.10.17.jar reactor
+ -extra-3.4.9.jar antlr-2.7.7.jar spring-webmvc-5.3.24.jar logback-class
+ ic-1.2.11.jar xstream-1.4.18.jar jakarta.annotation-api-1.3.5.jar sprin
+ g-jcl-5.3.24.jar jersey-client-1.19.4.jar httpcore-4.4.15.jar jackson-d
+ atabind-2.13.4.2.jar tomcat-embed-el-9.0.69.jar spring-cloud-netflix-eu
+ reka-client-3.1.4.jar spring-boot-starter-freemarker-2.7.6.jar spring-c
+ ontext-5.3.24.jar spring-boot-starter-2.7.6.jar jackson-annotations-2.1
+ 3.4.jar txw2-2.3.7.jar woodstox-core-6.2.1.jar spring-beans-5.3.24.jar 
+ jakarta.activation-1.2.2.jar reactive-streams-1.0.4.jar log4j-to-slf4j-
+ 2.17.2.jar mxparser-1.2.2.jar istack-commons-runtime-3.0.12.jar spring-
+ cloud-starter-loadbalancer-3.1.5.jar spring-context-support-5.3.24.jar 
+ jersey-server-1.19.4.jar jul-to-slf4j-1.7.36.jar httpclient-4.5.13.jar 
+ bcpkix-jdk15on-1.69.jar commons-configuration-1.10.jar commons-lang-2.6
+ .jar spring-boot-autoconfigure-2.7.6.jar spring-core-5.3.24.jar guice-4
+ .1.0.jar spring-boot-actuator-autoconfigure-2.7.6.jar jersey-core-1.19.
+ 1.jar spring-cloud-starter-config-3.1.5.jar bcutil-jdk15on-1.69.jar spr
+ ing-security-crypto-5.7.5.jar jsr311-api-1.1.1.jar spring-boot-starter-
+ web-2.7.6.jar reactor-core-3.4.25.jar spring-aop-5.3.24.jar slf4j-api-1
+ .7.36.jar guava-19.0.jar jakarta.xml.bind-api-2.3.3.jar micrometer-core
+ -1.9.6.jar jackson-module-parameter-names-2.13.4.jar bcprov-jdk15on-1.6
+ 9.jar logback-core-1.2.11.jar jersey-apache-client4-1.19.1.jar javax.in
+ ject-1.jar spring-cloud-context-3.1.5.jar spring-boot-starter-cache-2.7
+ .6.jar HdrHistogram-2.1.12.jar
+
