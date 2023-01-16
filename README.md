@@ -15,3 +15,4 @@ Um serviço para servir como registro/descoberta dos application services da arq
 - Gateway
 - Inventory Management
 - Procurement
+- Config Server
